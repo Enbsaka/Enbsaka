@@ -1,4 +1,50 @@
-- 👋 Hi, I'm Enzo, but I virtually use "Plugxhz" as my username.
-- 👀 I’m interested in videogames, games in general, music, computers and programming languages.
-- 🌱 I'm currently learning some languages ​​used in Front-end such as HTML, CSS and JavaScript. I'm also learning Back-end, PHP, MySQL, C# and increasingly Python and Lua.
-- 📫 How to reach me: You can reach me by Instagram (@enzo.xhz) and LinkedIn (Enzo Bedendo Sakatauskas).
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
+<h1 align="center">👋 Olá! Eu sou o Enbsaka</h1>
+
+<p align="center">Desenvolvedor apaixonado por tecnologia, código limpo e evoluir sempre 🚀</p>
+
+<hr>
+
+### 🧠 Tecnologias que uso no dia a dia
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" />
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Enbsaka&show_icons=true&theme=dracula&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Enbsaka&layout=compact&theme=dracula" height="150" />
+</div>
+
+---
+
+### 🌐 Contato e Redes
+
+<div align="center">
+  <a href="https://github.com/Enbsaka" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+---
