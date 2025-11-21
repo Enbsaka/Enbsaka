@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil"/>
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" height="150" alt="Pizza Ninjas GIF" />
 </div>
 
 
